@@ -6,5 +6,12 @@ Welcome to the **Spotify Clone** – a web-based replica of the popular music st
 - **Browse Music:** Explore a vast collection of songs, albums, and artists.
 - **Search Functionality:** Quickly find your favorite tracks or discover new music with the search bar.
 - **Responsive Design:** Fully responsive layout for an optimal experience on both desktop and mobile devices.
+## Technologies Used
+
+- **HTML/CSS:** For the basic structure and styling of the web pages.
+- **JavaScript:** For interactive features like the music player and search functionality.
+- **Spotify API:** For fetching real-time data like songs, albums, and artists.
+- **Node.js & Express:** Backend framework for handling API requests and user authentication.
+- **MongoDB:** Database to store user data, playlists, and preferences.
 
 
