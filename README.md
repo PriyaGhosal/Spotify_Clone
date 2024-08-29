@@ -5,5 +5,6 @@ Welcome to the **Spotify Clone** – a web-based replica of the popular music st
 - **Music Player:** Play, pause, skip tracks, and control the volume just like the original Spotify.
 - **Browse Music:** Explore a vast collection of songs, albums, and artists.
 - **Search Functionality:** Quickly find your favorite tracks or discover new music with the search bar.
+- **Responsive Design:** Fully responsive layout for an optimal experience on both desktop and mobile devices.
 
 
